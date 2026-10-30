@@ -37,7 +37,6 @@ project_8_Numpy_Analyzer/
 │
 ├── numpy_analyzer.py
 ├── README.md
-└── requirements.txt
 ```
 
 ## ⚙️ Installation and Setup
@@ -45,7 +44,8 @@ project_8_Numpy_Analyzer/
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/vaidika-ghoghari/project_8_Numpy_Analyzer.git
+
 ```
 
 **2. Navigate to the project directory**
@@ -54,13 +54,7 @@ git clone YOUR_GITHUB_REPOSITORY_LINK
 cd project_8_Numpy_Analyzer
 ```
 
-**3. Install the required libraries**
-
-```bash
-pip install -r requirements.txt
-```
-
-**4. Run the application**
+**3. Run the application**
 
 ```bash
 python numpy_analyzer.py
